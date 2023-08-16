@@ -1,0 +1,14 @@
+Name: Ryan Wells
+Project Name: Character Reader
+Project Description:
+    A React app that accepts as input a chunk of text
+    which is then read out loud character by character via prerecorded audio.
+    Helpful post-PoC features might include the ability to upload full text files,
+    pause/unpause the recording, export the recording for offline use,
+    rewind/fastforward, and recognize every utf8 character.
+User Stories:
+    As a typist,
+    I want to be able to hear my digital copies read out to me
+    so that I can proofread them against the analog original
+    without having to take my eyes away from the original page,
+    as switching focus between two different copies can let errors slip through.
